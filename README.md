@@ -1,6 +1,6 @@
 # Indonesia Government Debt
 #
-#### The analysis used Guidance on the Audit of Public Debt by Intosai. There is rour indicator of debt have been analysed, first Indonesia debt trend, primary balance, debt service to revenue, interest to revenue ratio.
+#### The analysis was used the INTOSAI Guidance on the Audit of Public Debt. Four key indicators were examined: (1) Indonesia's debt trends, (2) primary balance, (3) debt service-to-revenue ratio, and (4) interest-to-revenue ratio.
 You can access the full in here: https://drive.google.com/file/d/1rXLXs57ZwUM54K_-eWtVGpsItfbf6R2U/view
 #
 #### Data source:
